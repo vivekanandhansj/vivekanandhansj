@@ -1,6 +1,10 @@
 ### Hi there, I am  VIVEKANANDHAN 👋
 
- I am a Full-Stack mern developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here.
+I did my graduation in Mechanical Engineering from K.S.Rangasamy college of technoloy , Tiruchengode.
+
+Passionate full stack engineer with hands on experience in developing scalable websites/applications using a wide range of front-end and back-end skills like HTML, CSS, Javascript, Mongodb, Nodejs, Expressjs.
+
+Looking to further enhance my skills as the future full stack developer.
 
 [![Linkedin Badge](https://img.shields.io/badge/-vivek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivekanandhan-j-7039741a4)]((https://www.linkedin.com/in/vivekanandhan-j-7039741a4))
 [![Gmail Badge](https://img.shields.io/badge/-vivekmech249@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vivekmech249@gmail.com)](mailto:vivekmech249@gmail.com)
