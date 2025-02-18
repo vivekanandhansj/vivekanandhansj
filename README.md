@@ -1,10 +1,15 @@
-### Hi there, I am  VIVEKANANDHAN 👋
+# Hi there! 👋 I'm Vivekanandhan
 
-I did my graduation in Mechanical Engineering from K.S.Rangasamy college of technoloy , Tiruchengode.
+🚀 Full-Stack Web Developer with 2+ years of experience.  
+💻 Skills: ReactJS, Node.js, MySQL, Express, AngularJS, ASP.NET, JavaScript, HTML, CSS, jQuery.  
+🌍 Projects: [VideoGuard SIRA](#) | [Paws - Stray Dog Assistance](#)
+📫 Reach me at: [![Linkedin Badge](https://img.shields.io/badge/-vivek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivekanandhan-j-7039741a4)]((https://www.linkedin.com/in/vivekanandhan-j-7039741a4)) |[![Gmail Badge](https://img.shields.io/badge/-vivekmech249@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vivekmech249@gmail.com)](mailto:vivekmech249@gmail.com)
 
-Passionate full stack engineer with hands on experience in developing scalable websites/applications using a wide range of front-end and back-end skills like HTML, CSS, Javascript, Mongodb, Nodejs, Expressjs.
+🌱 Exploring AWS Cloud | Beginner in AWS Solutions Architect Certification Journey.  
+🎨 Fun fact: Won 4 times in school drawing competitions!
 
-Looking to further enhance my skills as the future full stack developer.
+💡 **Let's Build Something Amazing Together!**
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-vivek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivekanandhan-j-7039741a4)]((https://www.linkedin.com/in/vivekanandhan-j-7039741a4))
 [![Gmail Badge](https://img.shields.io/badge/-vivekmech249@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vivekmech249@gmail.com)](mailto:vivekmech249@gmail.com)
